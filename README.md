@@ -92,7 +92,7 @@ vsrepo install vs-placebo
 ### Step 4: Clone and Setup DitheryDoo
 
 ```bash
-git clone https://github.com/Hank-tha-Cowdog/DitheryDoo.git
+git clone https://github.com/Hank-tha-Cowdog/ditherydoo.git
 cd DitheryDoo
 ```
 
