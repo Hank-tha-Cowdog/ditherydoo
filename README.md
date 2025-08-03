@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![VapourSynth](https://img.shields.io/badge/VapourSynth-R57+-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)
+![License](https://img.shields.io/badge/license-LGPL2.1-orange.svg)
 
 **High-quality video processing pipeline with advanced dithering and debanding**
 
@@ -86,8 +86,6 @@ vsrepo install ffms2
 vsrepo install fmtconv
 vsrepo install neo_f3kdb
 vsrepo install tcanny
-
-# Optional: GPU-accelerated debanding
 vsrepo install vs-placebo
 ```
 
