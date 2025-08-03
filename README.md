@@ -239,7 +239,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the LGPL v2.1 License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -251,7 +251,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-**Made with ❤️ for video professionals who demand quality**
+**Made with ❤️ for video nerds who like to customize their workflows**
 
 *Tested on Windows 11, compatible with macOS and Linux*
 
